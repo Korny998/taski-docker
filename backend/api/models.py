@@ -1,5 +1,3 @@
-"""Database models for the Task app."""
-
 from django.db import models
 
 

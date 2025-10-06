@@ -1,5 +1,3 @@
-"""Views for Task API."""
-
 from rest_framework import status, viewsets
 from rest_framework.response import Response
 
